@@ -9,18 +9,18 @@
 
 _Get started using GitHub in less than an hour._
 
-<!-- 
+<!-- gsfgsdfgsdgs
   <<< Author notes: Start of the course >>> 
   Include start button, a note about Actions minutes,
   and tell the learner why they should take the course.
   Each step should be wrapped in <details>/<summary>, with an `id` set.
   The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
+  Do not use quotes on the <details>fddfgsdgsf tag attributes.
 -->
 
-<!--step0
+<!--step0gdfgfgsdfg
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
+People use GitHub tgsfdgdfgsdfgo build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
 
 - **Who is this for**: New developers, new GitHub users, and students.
 - **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
